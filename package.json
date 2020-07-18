@@ -9,15 +9,15 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/e88t/resume",
+  "homepage": "https://github.com/e88t/mikocin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/e88t/resume.git"
+    "url": "https://github.com/e88t/mikocin.git"
   },
   "author": "Eugen Tokariuk <eugentokariuk@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/e88t/resume/issues"
+    "url": "https://github.com/e88t/mikocin/issues"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
@@ -50,6 +50,6 @@
     "usedcss": "^1.0.7"
   },
   "dependencies": {
-    "aos": "^2.3.4"
+    "jquery.maskedinput": "^1.4.1"
   }
 }
